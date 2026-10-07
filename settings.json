@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "benserver11-3vI0.aternos.me",
-    "port": 53623,
-    "version": "",
+    "ip": "lufffydnika-horror.aternos.me",
+    "port": 53512,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
