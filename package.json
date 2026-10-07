@@ -3,6 +3,9 @@
   "version": "2.2",
   "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
   "main": "index.js",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
